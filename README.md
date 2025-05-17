@@ -20,3 +20,8 @@ Once Windows Defender has been freed by `not-defendnot`, it will proceed to atta
 
 ## What happens if not-defendnot is used on a defendnot-free computer?
 `not-defendnot` will produce an error and gracefully exit. Your system will be unharmed.
+
+## Can this help remove a malware infection?
+Absolutely! Malware can abuse `defendnot` to suppress your system's antivirus. `not-defendnot` reverses this, allowing your antivirus to destroy the infection. It does not usually help with other defense suppression techniques and malware that doesn't suppress your antivirus.
+
+If you disabled your computer's antivirus manually, then this program cannot fix that.
