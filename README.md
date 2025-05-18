@@ -1,6 +1,9 @@
 # not-defendnot
 Breaks the persistence mechanism used by the `defendnot` patcher. Does not require admin.
 
+**WARNING!! This tool is still undergoing alpha testing. Per the MIT License, you are solely responsible for your actions using this program, along with any side effects that follow.**
+
+**Use at your own risk, and do not rely on this tool until further tests have completed.**
 # Usage
 Download the latest Batch release from the `Releases` tab and execute it.
 Press a key of your choice. `not-defendnot` will handle the rest.
